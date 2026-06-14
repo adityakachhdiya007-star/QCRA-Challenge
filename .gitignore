@@ -18,3 +18,4 @@ target/
 *_private_*
 *_secret_*
 shared_secret*
+posts/
