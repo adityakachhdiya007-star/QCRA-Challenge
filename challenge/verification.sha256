@@ -1,0 +1,4 @@
+# SHA-256 hash of the plaintext of Message #5
+# If you recover the plaintext, compute SHA-256 and compare.
+# echo -n 'YOUR_ANSWER' | sha256sum
+2f8597bccf9f10ad43ab38ce5c0f69748c72c221c318f7626a1cb179cc88de12

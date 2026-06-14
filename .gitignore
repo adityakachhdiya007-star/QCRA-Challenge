@@ -1,0 +1,20 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Build artifacts
+target/
+*.o
+*.so
+*.dylib
+
+# Private keys — NEVER commit these
+*.pem
+*.key
+*_private_*
+*_secret_*
+shared_secret*
