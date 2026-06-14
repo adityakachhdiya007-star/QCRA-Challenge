@@ -1,7 +1,7 @@
 {
   "challenge": {
     "goal": "Recover the plaintext of Message #5",
-    "hint": "All 5 messages are English sentences. Message #5 is 70 characters long.",
+    "hint": "All 5 messages are English sentences. Message #5 is 69 characters long.",
     "verification_sha256": "2f8597bccf9f10ad43ab38ce5c0f69748c72c221c318f7626a1cb179cc88de12"
   },
   "challenge_version": "1.0",
